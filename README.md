@@ -1,5 +1,5 @@
 # Student-Management-System-MVC
-This MVC setup facilitates CRUD operations (Create, Read, Update, Delete) for a student entity in a simple web application. The controller handles the application logic, the views manage the presentation, and the model deals with the data layer.
+This a web-based Student Management System built with PHP, MySQL, and jQuery. It enables users to perform CRUD operations on student records, featuring a navigation header for easy page access. Utilizing the MVC architecture separates application logic, presentation, and data handling, ensuring efficient management of student information.
 
 Here's a description of each file in the MVC (Model-View-Controller) structure:
 
